@@ -77,14 +77,24 @@ h3{letter-spacing:-.1px}
 .nav{display:flex; align-items:center; gap:12px}
 .nav-toggle{
   display:none;
+  position:relative;
+  z-index:40;
   background:transparent;
   border:1px solid rgba(255,255,255,.14);
   border-radius:14px;
-  padding:10px 11px;
+  width:44px;
+  height:44px;
+  padding:0;
   color:inherit;
+  align-items:center;
+  justify-content:center;
+  flex-direction:column;
+  gap:5px;
 }
 .nav-toggle__bar{display:block; width:18px; height:2px; background:rgba(255,255,255,.85); border-radius:999px}
-.nav-toggle__bar + .nav-toggle__bar{margin-top:5px; opacity:.8}
+.nav-toggle__bar{opacity:.9}
+.nav-toggle__bar:nth-child(2){opacity:.78}
+.nav-toggle__bar:nth-child(3){opacity:.66}
 
 .nav-panel{display:flex; align-items:center; gap:18px}
 .nav-link{
