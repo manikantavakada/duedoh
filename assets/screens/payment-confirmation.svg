@@ -1,0 +1,68 @@
+<svg width="980" height="880" viewBox="0 0 980 880" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Payment and confirmation screen mockup">
+  <defs>
+    <linearGradient id="bg" x1="160" y1="80" x2="820" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#070A12"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFB37A"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <filter id="shadow" x="-50" y="-50" width="1080" height="980" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="30" stdDeviation="40" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+
+  <rect width="980" height="880" rx="44" fill="url(#bg)"/>
+  <circle cx="220" cy="160" r="210" fill="#F97316" fill-opacity="0.14"/>
+  <circle cx="820" cy="130" r="260" fill="#7C3AED" fill-opacity="0.14"/>
+
+  <g filter="url(#shadow)">
+    <rect x="225" y="80" width="530" height="720" rx="58" fill="#0F1930" stroke="rgba(255,255,255,.10)"/>
+    <rect x="250" y="110" width="480" height="30" rx="15" fill="rgba(255,255,255,.06)"/>
+
+    <g transform="translate(260 160)">
+      <text x="0" y="0" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="22" font-weight="900">Payment</text>
+      <text x="0" y="26" fill="#B7C3E2" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="14" font-weight="650">Secure checkout</text>
+    </g>
+
+    <g transform="translate(260 214)">
+      <rect x="0" y="0" width="460" height="210" rx="28" fill="rgba(255,255,255,.04)" stroke="rgba(255,255,255,.09)"/>
+      <text x="18" y="36" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="14" font-weight="900">Price breakdown</text>
+
+      <text x="18" y="70" fill="#B7C3E2" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" font-weight="700">Dude fee (3h)</text>
+      <text x="370" y="70" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" font-weight="900">$45.00</text>
+
+      <text x="18" y="96" fill="#B7C3E2" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" font-weight="700">Safety assurance</text>
+      <text x="370" y="96" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" font-weight="900">$3.00</text>
+
+      <text x="18" y="122" fill="#B7C3E2" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" font-weight="700">Wallet credits</text>
+      <text x="364" y="122" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" font-weight="900">−$10.00</text>
+
+      <rect x="18" y="140" width="424" height="1" fill="rgba(255,255,255,.08)"/>
+      <text x="18" y="168" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" font-weight="900">Total</text>
+      <text x="368" y="168" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" font-weight="900">$38.00</text>
+
+      <rect x="18" y="182" width="424" height="44" rx="18" fill="rgba(249,115,22,.10)" stroke="rgba(249,115,22,.25)"/>
+      <text x="34" y="210" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" font-weight="900">Dude Credits</text>
+      <text x="320" y="210" fill="#B7C3E2" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" font-weight="700">$24 available</text>
+    </g>
+
+    <g transform="translate(260 446)">
+      <rect x="0" y="0" width="460" height="56" rx="22" fill="url(#accent)"/>
+      <text x="178" y="35" fill="#151515" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="14" font-weight="900">Pay & confirm</text>
+    </g>
+
+    <g transform="translate(260 524)">
+      <rect x="0" y="0" width="460" height="160" rx="28" fill="rgba(34,197,94,.10)" stroke="rgba(34,197,94,.28)"/>
+      <circle cx="52" cy="56" r="20" fill="rgba(34,197,94,.18)" stroke="rgba(34,197,94,.35)"/>
+      <path d="M44 56L50 62L62 50" stroke="#EAF0FF" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="86" y="48" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="16" font-weight="900">Booking confirmed</text>
+      <text x="86" y="72" fill="#B7C3E2" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" font-weight="700">Aarav • Midtown • 12:30 PM</text>
+      <rect x="18" y="94" width="424" height="44" rx="18" fill="rgba(255,255,255,.06)" stroke="rgba(255,255,255,.10)"/>
+      <text x="34" y="121" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" font-weight="900">Next steps</text>
+      <text x="140" y="121" fill="#B7C3E2" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" font-weight="650">Chat, meet point, and safety tips</text>
+    </g>
+  </g>
+</svg>
+

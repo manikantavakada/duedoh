@@ -1,0 +1,17 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Duedoh logo mark">
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="#F97316"/>
+  <rect x="8" y="8" width="112" height="112" rx="28" fill="url(#g)"/>
+  <path d="M40 38H69.5C85.1 38 96 48.9 96 64.2C96 79.5 85.1 90.4 69.5 90.4H40V38ZM69 78.6C77.8 78.6 83.5 72.9 83.5 64.2C83.5 55.6 77.8 49.9 69 49.9H52.2V78.6H69Z" fill="#0B1220"/>
+  <path opacity="0.45" d="M18 92C33 70 46 76 62 64C82 49 96 54 110 34V92C110 105.255 99.255 116 86 116H42C28.745 116 18 105.255 18 92Z" fill="url(#shine)"/>
+  <defs>
+    <linearGradient id="g" x1="18" y1="16" x2="112" y2="116" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFB37A"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="18" y1="50" x2="110" y2="116" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+</svg>
+

@@ -1,0 +1,16 @@
+{
+  "name": "Duedoh",
+  "short_name": "Duedoh",
+  "description": "Travel safety and verified local companions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "icons": [
+    {
+      "src": "/assets/brand/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

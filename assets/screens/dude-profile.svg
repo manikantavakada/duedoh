@@ -1,0 +1,69 @@
+<svg width="980" height="880" viewBox="0 0 980 880" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Dude profile and booking screen mockup">
+  <defs>
+    <linearGradient id="bg" x1="160" y1="80" x2="820" y2="800" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#070A12"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#FFB37A"/>
+      <stop offset="1" stop-color="#F97316"/>
+    </linearGradient>
+    <filter id="shadow" x="-50" y="-50" width="1080" height="980" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feDropShadow dx="0" dy="30" stdDeviation="40" flood-color="#000000" flood-opacity="0.55"/>
+    </filter>
+  </defs>
+
+  <rect width="980" height="880" rx="44" fill="url(#bg)"/>
+  <circle cx="260" cy="140" r="220" fill="#F97316" fill-opacity="0.14"/>
+  <circle cx="820" cy="190" r="260" fill="#7C3AED" fill-opacity="0.14"/>
+
+  <g filter="url(#shadow)">
+    <rect x="225" y="80" width="530" height="720" rx="58" fill="#0F1930" stroke="rgba(255,255,255,.10)"/>
+    <rect x="250" y="110" width="480" height="30" rx="15" fill="rgba(255,255,255,.06)"/>
+
+    <g transform="translate(260 158)">
+      <text x="0" y="0" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="22" font-weight="900">Aarav</text>
+      <text x="0" y="26" fill="#B7C3E2" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="14" font-weight="650">4.9 ★ • 214 trips • Verified</text>
+    </g>
+
+    <g transform="translate(260 212)">
+      <rect x="0" y="0" width="460" height="120" rx="28" fill="rgba(249,115,22,.10)" stroke="rgba(249,115,22,.25)"/>
+      <circle cx="58" cy="60" r="30" fill="rgba(255,255,255,.08)" stroke="rgba(255,255,255,.14)"/>
+      <text x="104" y="52" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="14" font-weight="900">Languages</text>
+      <text x="104" y="74" fill="#B7C3E2" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" font-weight="700">English • Hindi</text>
+      <text x="104" y="98" fill="#8693B4" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" font-weight="650">Specialties: Night safe, Local food</text>
+    </g>
+
+    <g transform="translate(260 354)">
+      <text x="0" y="0" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="14" font-weight="900">Pick a time slot</text>
+      <g transform="translate(0 14)">
+        <rect x="0" y="0" width="146" height="48" rx="18" fill="rgba(255,255,255,.06)" stroke="rgba(255,255,255,.10)"/>
+        <text x="18" y="30" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="13" font-weight="850">10:00 AM</text>
+        <rect x="160" y="0" width="146" height="48" rx="18" fill="rgba(249,115,22,.14)" stroke="rgba(249,115,22,.35)"/>
+        <text x="178" y="30" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="13" font-weight="850">12:30 PM</text>
+        <rect x="320" y="0" width="140" height="48" rx="18" fill="rgba(255,255,255,.06)" stroke="rgba(255,255,255,.10)"/>
+        <text x="338" y="30" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="13" font-weight="850">3:00 PM</text>
+      </g>
+    </g>
+
+    <g transform="translate(260 442)">
+      <rect x="0" y="0" width="460" height="160" rx="28" fill="rgba(255,255,255,.04)" stroke="rgba(255,255,255,.09)"/>
+      <text x="18" y="36" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="14" font-weight="900">Trip summary</text>
+      <text x="18" y="62" fill="#B7C3E2" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" font-weight="700">Area</text>
+      <text x="340" y="62" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" font-weight="900">Midtown</text>
+      <text x="18" y="86" fill="#B7C3E2" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" font-weight="700">Duration</text>
+      <text x="340" y="86" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" font-weight="900">3 hours</text>
+      <text x="18" y="110" fill="#B7C3E2" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" font-weight="700">Meet point</text>
+      <text x="340" y="110" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" font-weight="900">Times Sq.</text>
+      <rect x="18" y="122" width="424" height="1" fill="rgba(255,255,255,.08)"/>
+      <text x="18" y="150" fill="#B7C3E2" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" font-weight="700">Total</text>
+      <text x="340" y="150" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="12" font-weight="900">$45</text>
+    </g>
+
+    <g transform="translate(260 626)">
+      <rect x="0" y="0" width="460" height="56" rx="22" fill="url(#accent)"/>
+      <text x="172" y="35" fill="#151515" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="14" font-weight="900">Continue to payment</text>
+    </g>
+  </g>
+</svg>
+
