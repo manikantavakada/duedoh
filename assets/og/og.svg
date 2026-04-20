@@ -26,12 +26,12 @@
     <rect x="0" y="0" width="92" height="92" rx="24" fill="url(#accent)"/>
     <path d="M30 26H52.4C64.8 26 73.4 34.6 73.4 46.7C73.4 58.8 64.8 67.4 52.4 67.4H30V26ZM52 58.1C59 58.1 63.6 53.5 63.6 46.7C63.6 39.9 59 35.3 52 35.3H39.6V58.1H52Z" fill="#0B1220"/>
     <text x="114" y="44" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="36" font-weight="800">Duedoh</text>
-    <text x="114" y="82" fill="#B7C3E2" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="22" font-weight="650">Travel safety + verified local companions</text>
+    <text x="114" y="82" fill="#B7C3E2" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="22" font-weight="650">Travel Better. Travel Brave</text>
   </g>
 
   <g transform="translate(90 255)">
-    <text x="0" y="0" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="54" font-weight="900">Safer travel.</text>
-    <text x="0" y="62" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="54" font-weight="900">Guided by locals.</text>
+    <text x="0" y="0" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="54" font-weight="900">Travel Better.</text>
+    <text x="0" y="62" fill="#EAF0FF" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="54" font-weight="900">Travel Brave.</text>
     <text x="0" y="115" fill="#B7C3E2" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial" font-size="22" font-weight="600">Book in 5 steps: Home → Trip Setup → Available Dudes → Booking → Payment</text>
   </g>
 
@@ -43,4 +43,3 @@
     <rect x="22" y="272" width="216" height="46" rx="22" fill="rgba(255,255,255,.06)" stroke="rgba(255,255,255,.10)"/>
   </g>
 </svg>
-
