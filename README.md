@@ -14,6 +14,6 @@ Deploy the folder as static files (Netlify, Vercel Static, Cloudflare Pages, S3,
 
 ## Notes
 
-- The “Sample screens” are SVG mockups aligned to the MVP 5-screen booking flow.
+- The "Sample screens" are SVG mockups aligned to the MVP 5-screen booking flow.
 - The contact form is intentionally non-submitting (static demo); wire it to your backend or a form provider.
 - Update the production domain in `index.html`, `robots.txt`, and `sitemap.xml` before going live.

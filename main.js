@@ -51,7 +51,7 @@ function setupFakeForm() {
 
   btn.addEventListener("click", () => {
     note.textContent =
-      "Thanks — form submission is disabled in this static demo. Wire this to your backend or form provider when deploying.";
+      "Thanks. Form submission is disabled in this static demo. Wire this to your backend or form provider when deploying.";
   });
 }
 
